@@ -1,6 +1,6 @@
 # Solais Web for LIFX
 
-Solais is a single page application to create a colorful light scene based on your favourite picutres
+Solais is a single page application to create a colorful light scene based on your favourite pictures
 
 ## Screenshots
 
