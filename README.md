@@ -16,8 +16,6 @@ These instructions will get a copy of the project up and running on your local m
 
 ### Keys
 
--   Get a LIFX developer API Key here
-
 -   [LIFX](https://api.developer.lifx.com/) Sign up for a key here. Make sure to save the key and keep in a safe place.
 
 ### Dependencies
