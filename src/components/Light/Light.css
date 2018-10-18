@@ -1,0 +1,49 @@
+.light {
+    display: flex;
+    flex-direction: column;
+    min-width: 125px;
+    margin: 5px;
+    scroll-snap-align: center;
+    cursor: pointer;
+    margin: auto;
+    height: 100%;
+    text-align: center;
+}
+
+.light_icon {
+    font-size: 35px;
+    margin: 0 auto;
+    transform: translateX(63px);
+}
+.light_icon-label {
+    font-size: 14px;
+    padding-top: 5px;
+    color: white;
+    text-align: center;
+}
+
+.light-circle {
+    display: flex;
+    align-items: center;
+
+    height: 85px;
+    margin: 0 auto;
+    transform: translateX(-13%);
+}
+
+.light-connection-error{
+    color: white;
+    text-align: center;
+}
+
+.light svg {
+    margin: auto;
+}
+circle {
+    display: block;
+    margin: auto;
+    position: absolute;
+    transition: stroke-dashoffset 0.65s;
+    transform: rotate(-90deg);
+    transform-origin: 50% 50%;
+}

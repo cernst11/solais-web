@@ -1,0 +1,27 @@
+
+.grid-container {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 2fr 1fr;
+  grid-gap: 1px 1px;
+  grid-template-areas: "Lights" "Main" "GradientDisplay";
+}
+
+.Lights {
+  grid-area: Lights;
+}
+
+.Main {
+  grid-area: Main;
+
+}
+
+.GradientDisplay {
+  grid-area: GradientDisplay;
+}
+
+
+body{
+  background-color: #1f1f1f;
+}

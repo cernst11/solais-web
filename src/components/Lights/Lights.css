@@ -1,0 +1,24 @@
+.lights{
+    max-width: 85vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0;
+    overflow-x: auto;
+    -webkit-scroll-snap-type: x mandatory;
+    -ms-scroll-snap-type: x mandatory;
+    scroll-snap-type: x mandatory;
+    padding: 10px 15px;
+    justify-items: center;
+    margin: 45px auto;
+    height: 120px;
+}
+
+@media only screen and (max-width: 600px) {
+    .lights {
+        max-width: 95vw;
+        padding: 10px 0px;
+    }
+}
+
+
