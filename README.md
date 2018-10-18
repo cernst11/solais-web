@@ -4,7 +4,7 @@ Solais is a single page application to create a colorful light scene based on yo
 
 ## Screenshots
 
-![ScreenShot](./screenshots/solais-screenshot.png?raw=true "Berlin Simple Map")
+![ScreenShot](./screenshots/solais-screenshot.png?raw=true "Solais View")
 
 ## Getting Started
 
