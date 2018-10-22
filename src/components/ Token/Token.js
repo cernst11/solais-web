@@ -66,7 +66,7 @@ class Token extends Component {
 
     updatetokenValue(evt) {
         this.setState({
-            tokenValue: evt.target.value
+            tokenValue: (evt.target.value || '')
         });
     }
 
